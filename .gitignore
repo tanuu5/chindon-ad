@@ -1,0 +1,8 @@
+.DS_Store
+node_modules/
+.env
+.env.*
+.claude/
+*.log
+# Claude Code が読み込み時に置く型定義（版ごとに変わる）
+plugins/*/.claude-plugin/types/

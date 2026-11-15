@@ -1,0 +1,14 @@
+{
+  "name": "chindon-ad",
+  "description": "Claude Code デスクトップの会話の背景を、わざと最悪にする mod。たぬきのちんどん屋と、閉じられない広告",
+  "owner": {
+    "name": "たぬ"
+  },
+  "plugins": [
+    {
+      "name": "chindon-ad",
+      "source": "./plugins/chindon-ad",
+      "description": "会話の後ろを、たぬきのちんどん屋が練り歩き、閉じられない広告が並ぶ。帯の「× 閉じる」を押すと広告が増え、送信のたびにチンドンと鳴る（/chindon 店じまい で本当に止まる）"
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "name": "chindon-ad",
+  "version": "0.1.0",
+  "description": "最悪の背景：デスクトップアプリの会話の後ろを、たぬきのちんどん屋が練り歩き、閉じられない広告が並ぶ。帯の「× 閉じる」を押すと広告が増え、送信のたびにチンドンと鳴る（/chindon 店じまい で本当に止まる）",
+  "author": {
+    "name": "たぬ"
+  },
+  "license": "MIT",
+  "types": "./types/index.d.ts"
+}
